@@ -1,5 +1,10 @@
-from sklearn.datasets import fetch_california_housing
+import cv2
+import numpy as np
 
-housing = fetch_california_housing()
+def read_file(filename):
 
-housing.dtypes
+    img = cv2.imread(filename)
+    cv2.imshow(img)
+    return img
+
+read_file("me.jpeg")
