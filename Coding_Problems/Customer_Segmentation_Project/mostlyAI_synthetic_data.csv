@@ -1,0 +1,101 @@
+ID ,Gender ,Ever_Married ,Age ,Graduated ,Profession ,Work_Experience ,Spending_Score ,Family_Size ,Var_1 ,Segmentation 
+460116,Male ,Yes ,37,Yes ,Entertainment ,5,Low ,2,Cat_6 ,A 
+464633,Male ,No ,29,No ,Healthcare ,0,Low ,5,Cat_4 ,D 
+465790,Female ,Yes ,47,Yes ,Engineer ,5,Average ,4,Cat_6 ,B 
+465688,Female ,No ,42,Yes ,Artist ,6,Low ,4,Cat_2 ,C 
+459852,Male ,Yes ,45,Yes ,Artist ,0,Low ,2,Cat_6 ,A 
+459907,Female ,No ,49,Yes ,Artist ,0,Low ,1,Cat_6 ,B 
+461739,Male ,No ,53,Yes ,Artist ,0,Low ,1,Cat_6 ,A 
+459119,Female ,No ,22,No ,Healthcare ,1,Low ,3,Cat_6 ,D 
+460232,Male ,No ,31,Yes ,Healthcare ,8,Low ,5,Cat_1 ,D 
+462932,Female ,Yes ,45,Yes ,Engineer ,2,Low ,1,Cat_6 ,A 
+464193,Male ,Yes ,80,No ,Executive ,0,Low ,1,Cat_4 ,A 
+459128,Male ,Yes ,28,Yes ,Doctor ,0,Average ,2,Cat_1 ,D 
+460593,Female ,Yes ,50,No ,Artist ,- ,Low ,4,Cat_3 ,C 
+462208,Male ,Yes ,42,Yes ,Artist ,7,Low ,1,Cat_6 ,C 
+460776,Male ,Yes ,72,No ,Executive ,0,High ,4,Cat_6 ,B 
+466755,Male ,Yes ,42,Yes ,Artist ,1,Low ,3,Cat_6 ,B 
+461601,Female ,No ,39,Yes ,Artist ,6,Low ,3,Cat_2 ,C 
+466310,Female ,No ,49,No ,Entertainment ,8,Low ,1,Cat_3 ,D 
+466634,Female ,Yes ,40,Yes ,Artist ,6,Average ,3,Cat_7 ,C 
+463435,Male ,No ,19,No ,Healthcare ,- ,Low ,3,Cat_3 ,D 
+459096,Male ,Yes ,37,Yes ,Entertainment ,9,Average ,2,Cat_6 ,A 
+466063,Female ,Yes ,89,No ,Lawyer ,8,Low ,1,Cat_3 ,D 
+459159,Female ,Yes ,63,Yes ,Doctor ,2,Average ,- ,Cat_6 ,C 
+461482,Female ,No ,31,Yes ,Doctor ,9,Low ,5,Cat_6 ,D 
+460792,Male ,Yes ,61,Yes ,Entertainment ,0,Average ,4,Cat_6 ,D 
+464943,Female ,Yes ,35,No ,Artist ,- ,Low ,4,Cat_4 ,A 
+463571,Female ,No ,31,No ,Engineer ,0,Low ,5,Cat_3 ,A 
+461798,Male ,Yes ,53,Yes ,Artist ,1,Average ,4,Cat_6 ,B 
+460847,Male ,Yes ,71,No ,Lawyer ,8,Low ,1,Cat_2 ,D 
+459688,Male ,Yes ,38,Yes ,Executive ,- ,Average ,3,Cat_6 ,C 
+462334,Male ,Yes ,73,Yes ,Executive ,1,High ,2,Cat_6 ,C 
+460735,Female ,Yes ,27,No ,Homemaker ,9,Low ,3,Cat_6 ,B 
+464173,Male ,Yes ,66,Yes ,Artist ,1,High ,3,Cat_3 ,C 
+467097,Male ,Yes ,38,Yes ,Artist ,4,Low ,2,Cat_6 ,A 
+466901,Female ,Yes ,37,Yes ,Artist ,10,Low ,1,Cat_6 ,A 
+465519,Male ,No ,19,No ,Entertainment ,- ,Low ,2,Cat_4 ,D 
+465344,Male ,No ,33,Yes ,Engineer ,1,Low ,4,Cat_6 ,C 
+459787,Male ,Yes ,86,Yes ,Lawyer ,- ,High ,2,Cat_6 ,C 
+465769,Male ,Yes ,71,Yes ,Artist ,0,Average ,3,Cat_6 ,A 
+464972,Male ,No ,18,No ,Healthcare ,0,Low ,4,Cat_6 ,D 
+462561,Male ,No ,38,No ,Entertainment ,1,Low ,1,Cat_6 ,A 
+460264,Female ,Yes ,35,Yes ,Artist ,0,Low ,1,- ,A 
+463028,Male ,No ,52,Yes ,Artist ,3,Low ,1,Cat_2 ,B 
+460659,Male ,No ,32,No ,Marketing ,0,Low ,6,Cat_3 ,D 
+464495,Male ,Yes ,27,No ,Doctor ,1,Low ,3,Cat_4 ,A 
+466243,Male ,Yes ,38,Yes ,Entertainment ,0,Average ,2,Cat_6 ,B 
+467744,Female ,Yes ,73,No ,Artist ,- ,Low ,1,Cat_6 ,B 
+459740,Female ,- ,79,No ,Lawyer ,0,Low ,2,Cat_6 ,A 
+463279,Male ,No ,25,Yes ,Doctor ,- ,Low ,1,Cat_6 ,D 
+460316,Female ,No ,27,Yes ,Healthcare ,0,Low ,4,Cat_6 ,A 
+465734,Male ,Yes ,38,No ,Executive ,8,High ,5,Cat_4 ,D 
+463407,Male ,Yes ,49,No ,Executive ,8,Low ,2,Cat_6 ,A 
+465659,Male ,Yes ,41,Yes ,Homemaker ,11,High ,4,Cat_6 ,C 
+465516,Male ,No ,25,Yes ,Healthcare ,1,Low ,2,Cat_4 ,D 
+461129,Female ,Yes ,51,Yes ,Artist ,2,Average ,1,Cat_3 ,B 
+466331,Male ,No ,27,Yes ,Healthcare ,1,Low ,3,Cat_6 ,D 
+464035,Male ,No ,31,No ,Healthcare ,1,Low ,3,Cat_6 ,D 
+467083,Female ,No ,33,No ,Homemaker ,8,Low ,1,Cat_6 ,D 
+465762,Male ,Yes ,57,Yes ,Entertainment ,0,Average ,3,Cat_6 ,B 
+459625,Male ,No ,27,Yes ,Healthcare ,- ,Low ,2,Cat_6 ,D 
+462000,Male ,Yes ,30,Yes ,Artist ,0,Average ,2,Cat_1 ,C 
+467919,Female ,No ,26,No ,Entertainment ,1,Low ,1,Cat_6 ,D 
+467077,Male ,Yes ,41,Yes ,Healthcare ,1,Low ,2,Cat_6 ,A 
+461626,Female ,No ,41,Yes ,Artist ,4,Low ,1,Cat_6 ,A 
+459039,Male ,No ,45,Yes ,Artist ,1,Low ,1,Cat_6 ,B 
+460864,Female ,No ,41,Yes ,Healthcare ,1,Low ,1,Cat_7 ,D 
+463841,Male ,No ,31,No ,Healthcare ,1,Low ,4,Cat_3 ,D 
+459277,Male ,No ,30,Yes ,Artist ,13,Low ,3,Cat_2 ,B 
+461732,Male ,Yes ,86,Yes ,Doctor ,1,High ,2,Cat_6 ,A 
+462818,Male ,Yes ,83,Yes ,Lawyer ,0,Low ,1,Cat_6 ,D 
+465795,Male ,No ,19,No ,Healthcare ,8,Low ,4,Cat_2 ,D 
+463731,Female ,Yes ,56,No ,Lawyer ,1,High ,2,Cat_6 ,A 
+462361,Male ,Yes ,75,Yes ,Artist ,0,High ,2,Cat_6 ,A 
+462725,Male ,No ,33,Yes ,Healthcare ,1,Low ,4,Cat_2 ,D 
+464248,Male ,Yes ,60,Yes ,Engineer ,4,Average ,4,Cat_6 ,C 
+460169,Female ,Yes ,89,No ,Lawyer ,0,High ,- ,- ,B 
+462495,Male ,Yes ,50,Yes ,Executive ,1,High ,4,Cat_6 ,B 
+464570,Female ,No ,43,Yes ,Engineer ,7,Low ,2,Cat_4 ,D 
+463840,Male ,Yes ,46,Yes ,Artist ,0,Average ,3,Cat_6 ,C 
+464437,Male ,Yes ,65,Yes ,Executive ,1,High ,3,Cat_6 ,C 
+467965,Male ,No ,85,No ,Entertainment ,0,Low ,1,Cat_3 ,A 
+463506,Male ,No ,22,No ,Healthcare ,1,Low ,8,Cat_4 ,D 
+462921,Male ,Yes ,68,Yes ,Executive ,- ,Low ,1,Cat_6 ,B 
+465519,Female ,No ,43,No ,Entertainment ,3,Low ,1,Cat_6 ,A 
+459255,Female ,No ,27,Yes ,Doctor ,0,Low ,3,Cat_6 ,A 
+467500,Male ,Yes ,69,No ,Executive ,0,High ,3,Cat_6 ,A 
+459040,Male ,Yes ,40,Yes ,Artist ,12,Average ,2,Cat_6 ,B 
+459180,Female ,Yes ,88,Yes ,Lawyer ,0,Low ,2,Cat_6 ,D 
+464526,Male ,Yes ,47,Yes ,Doctor ,1,Average ,4,Cat_3 ,C 
+465256,Male ,Yes ,46,No ,Entertainment ,0,Low ,1,Cat_3 ,A 
+463455,Female ,No ,32,Yes ,Homemaker ,13,Low ,5,Cat_6 ,D 
+465147,Male ,Yes ,25,Yes ,Artist ,1,Average ,2,Cat_6 ,C 
+465797,Male ,Yes ,43,No ,Entertainment ,9,Average ,2,Cat_3 ,A 
+459033,Female ,Yes ,65,Yes ,Artist ,1,High ,2,Cat_1 ,C 
+467479,Female ,Yes ,39,Yes ,Artist ,0,Average ,2,Cat_6 ,B 
+466398,Female ,No ,42,Yes ,Engineer ,1,Low ,2,Cat_3 ,A 
+464992,Male ,No ,35,Yes ,Artist ,6,Low ,1,Cat_4 ,A 
+462901,Male ,Yes ,46,Yes ,Artist ,0,Low ,4,Cat_6 ,B 
+462682,Male ,- ,32,Yes ,Artist ,1,High ,2,Cat_6 ,C 
+462545,Female ,Yes ,46,Yes ,Artist ,0,High ,8,Cat_6 ,C 
